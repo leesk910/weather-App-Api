@@ -47,8 +47,9 @@ A modern Weather App built using Flutter that provides real-time weather informa
 ![my App](myapp_dart.jpg.png)
 
 
-### my Project
-![My project ](api-video.mp4)
+## 🎥 My Project
+
+[▶️ Watch Weather App Demo](api_video.mp4)
 ## 🛠️ Technologies Used
 
 - Flutter
